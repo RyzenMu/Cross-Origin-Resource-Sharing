@@ -1,0 +1,15 @@
+/*
+
+CORS - cross origin resource sharing
+ 
+
+def :: when a browser makes a request to server1 but partial response given by server2 it is called CORS.
+
+1. For Security reasons web-browser will not connect to server2.
+2. Pre-flight request will be sent by server1 to server2 but not by the Browser.
+3. if the Pre-flight (in the header) is successful Access control allow will be executed.
+
+
+
+
+*/
